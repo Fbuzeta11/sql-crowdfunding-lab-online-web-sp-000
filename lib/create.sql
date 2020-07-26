@@ -13,4 +13,4 @@ age INTEGER);
 
 CREATE TABLE pledges (
 id INTEGER PRIMARY KEY,
-)
+user_id )
