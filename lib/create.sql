@@ -6,4 +6,6 @@ funding_goal INTEGER,
 start_date TEXT,
 end_date TEXT);
 
-CREATE TABLE user
+CREATE TABLE users (
+id INTEGER PRIMARY KEY,
+)
