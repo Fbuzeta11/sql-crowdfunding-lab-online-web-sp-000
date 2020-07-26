@@ -11,4 +11,5 @@ id INTEGER PRIMARY KEY,
 name TEXT,
 age INTEGER);
 
-CREATE TABLE 
+CREATE TABLE pledges (
+)
